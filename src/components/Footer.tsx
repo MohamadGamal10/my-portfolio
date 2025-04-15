@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Footer() {
     return (
         <footer className="bg-gray-900 text-gray-400 py-6 mt-10 border-t border-gray-700">
@@ -7,9 +9,9 @@ export default function Footer() {
                 </p>
                 <p>
                     &lt;Developed by&gt;{" "}
-                    <span className="cursor-pointer font-bold italic text-sky-400 hover:text-sky-300 transition duration-300">
+                    <Link href={"https://www.linkedin.com/in/mohamadgamal10/"} className="cursor-pointer font-bold italic text-sky-400 hover:text-sky-300 transition duration-300">
                         Mohamed Gamal
-                    </span>
+                    </Link>
                 </p>
             </div>
         </footer>

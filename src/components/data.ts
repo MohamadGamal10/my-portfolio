@@ -3,7 +3,7 @@ export const projects = [
     title: "Shopnetic",
     description:
       "A fully functional e-commerce platform offering a complete experience for customers, including order management, payments, and product handling.",
-    category: "Tailwind/Next.js",
+    category: "Typescript/Tailwind/Next.js",
     github: "https://github.com/MohamadGamal10/Ecommerce-Next.js",
     live: "https://ecommerce-next-js-iota-nine.vercel.app/",
     imge: "/shopnetic.png",
@@ -12,7 +12,7 @@ export const projects = [
     title: "Task from Recent Interview – Figma to Next.js & Tailwind",
     description:
       "As part of a technical interview, I was assigned a task to convert a Figma design into a fully responsive Next.js + React landing page.",
-    category: "Tailwind/Next.js",
+    category: "Typescript/Tailwind/Next.js",
     github: "https://github.com/MohamadGamal10/Task_e-RAMO_Company",
     live: "https://task-e-ramo-company.vercel.app/",
     imge: "/eramo.png",
@@ -21,7 +21,7 @@ export const projects = [
     title: "Modawanaty",
     description:
       "A modern blog platform built with Next.js, powered by Sanity as a headless CMS. Styled using Tailwind CSS and ShadCN UI for sleek, responsive components.",
-    category: "Tailwind/Next.js",
+    category: "Typescript/Tailwind/Next.js",
     github: "https://github.com/MohamadGamal10/Blog-Next.js",
     live: "https://modawanaty.vercel.app/",
     imge: "/blog.png",

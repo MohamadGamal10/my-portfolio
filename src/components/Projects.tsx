@@ -11,6 +11,7 @@ export default function Projects() {
         "Bootstrap",
         "Tailwind",
         "MUI",
+        "Typescript",
         "React",
         "Next.js",
         "Php",

@@ -39,8 +39,8 @@ export default function Hero() {
                     </Link>
 
                     <Link
-                        href="https://www.linkedin.com/in/mohamadgamal10/"
-                        target="_blank"
+                        href="/Frontend-Mohamed-Gamal.pdf"
+                        download 
                         className="py-3 px-5 mx-2 my-2 mt-6 rounded-full font-bold leading-none border border-sky-500 text-sky-500 hover:bg-sky-500 hover:text-white flex items-center transition-all ease-in-out duration-150"
                     >
                         My CV <FcViewDetails className="ml-2" />
