@@ -6,7 +6,7 @@ export const projects = [
     category: "Typescript/Tailwind/Next.js",
     github: "https://github.com/MohamadGamal10/Ecommerce-Next.js",
     live: "https://ecommerce-next-js-iota-nine.vercel.app/",
-    imge: "/shopnetic.png",
+    imge: "/Shopnetic.png",
   },
   {
     title: "Task from Recent Interview – Figma to Next.js & Tailwind",
