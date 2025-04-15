@@ -2,8 +2,15 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #111827;
 }
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+  max-width: 1170px;
+}
+
 
 @theme inline {
   --color-background: var(--background);
@@ -14,7 +21,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #111827;
     --foreground: #ededed;
   }
 }
@@ -22,5 +29,5 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system;
 }
