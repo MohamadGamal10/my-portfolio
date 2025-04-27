@@ -4,7 +4,7 @@ import React from 'react'
 export default function Trainings() {
     return (
         <div className="container">
-            <div className='mt-40'>
+            <div className='my-15'>
                 <h1 className="text-center text-5xl font-black mb-9 pb-1 bg-clip-text bg-gradient-to-r text-gray-800 dark:text-gray-100">Trainings 🛠️</h1>
        
                 <div className="grid grid-cols-1 gap-12 lg:grid-cols-2">

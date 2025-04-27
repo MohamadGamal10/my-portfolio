@@ -26,7 +26,7 @@ export default function Projects() {
             : projects.filter((project) => project.category.includes(selectedCategory));
     return (
         <div className="container">
-            <div className='my-30'>
+            <div className='my-20'>
                 <span className="flex flex-col lg:flex-row justify-center items-center text-center text-5xl font-black mb-9 pb-1 bg-clip-text bg-gradient-to-r text-gray-800 dark:text-gray-100">My Coding Projects<FaLaptopCode className='mt-3 lg:mt-0 lg:ml-5' /></span>
 
                 <div className="flex justify-center gap-3 flex-wrap mb-10 ">

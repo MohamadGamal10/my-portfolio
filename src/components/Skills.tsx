@@ -11,7 +11,7 @@ import { Tilt } from "react-tilt";
 export default function Skills() {
     return (
         <div className="container">
-            <div className='mt-10'>
+            <div className='mt-5'>
                 <h1 className="text-center text-5xl font-black mb-9 pb-1 bg-clip-text bg-gradient-to-r text-gray-800 dark:text-gray-100">My Skills 👇</h1>
                 <div className='grid grid-cols-1 gap-12 lg:grid-cols-2'>
                     <Tilt >

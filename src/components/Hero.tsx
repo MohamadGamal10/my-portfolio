@@ -6,7 +6,7 @@ import { FcViewDetails } from 'react-icons/fc'
 
 export default function Hero() {
     return (
-        <div className='mx-auto px-5 sm:w-11/12 xl:w-3/4 2xl:w-2/3 py-12 xl:py-20'>
+        <div className='mx-auto px-5 sm:w-11/12 xl:w-3/4 2xl:w-2/3 py-12 xl:py-15'>
             <div className="max-w-xl mx-auto px-5">
                 <div className="flex justify-center">
                     <Image src="/hero.png" width={250} height={250} alt="profile" />
