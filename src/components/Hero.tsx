@@ -38,7 +38,7 @@ export default function Hero() {
                         GitHub <FaGithub className="ml-1" />
                     </Link>
 
-                    <a
+                    {/* <a
                        // href="/Frontend-Mohamed-Gamal.pdf"
                        // download 
                         target="_blank"
@@ -46,7 +46,16 @@ export default function Hero() {
                         className="py-3 px-5 mx-2 my-2 mt-6 rounded-full font-bold leading-none border border-sky-500 text-sky-500 hover:bg-sky-500 hover:text-white flex items-center transition-all ease-in-out duration-150"
                     >
                         My CV <FcViewDetails className="ml-2" />
-                    </a>
+                    </a> */}
+
+                    <a
+  href="https://drive.google.com/uc?export=download&id=1BZbeiQ8z92am-ViXrbJd9hF_51eFr8DS"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="py-3 px-5 mx-2 my-2 mt-6 rounded-full font-bold leading-none border border-sky-500 text-sky-500 hover:bg-sky-500 hover:text-white flex items-center transition-all ease-in-out duration-150"
+>
+  My CV <FcViewDetails className="ml-2" />
+</a>
 
                 </div>
             </div>
